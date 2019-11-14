@@ -1,8 +1,6 @@
 import React, {useState, useEffect, useRef} from 'react';
 import Button from 'react-bootstrap/Button';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
-import useInterval from '../functions/useInterval';
-import useTimeout from 'use-timeout';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
