@@ -1,5 +1,36 @@
-.App {
+.pomodoro-clock {
+  color: black;
   text-align: center;
+  margin-top: 35vh;
+  border: 1px solid blue;
+  border-radius: 25px;
+  padding: 5px 0px 20px 0px;
+}
+
+#break-time{
+  color: black;
+  padding-top: 10px;
+  background-color: burlywood;
+  border-radius: 25px;
+  z-index: 1;
+}
+#session-time{
+  color: black;
+  padding-top: 10px;
+  background-color: burlywood;
+  border-radius: 25px;
+  z-index: 1;
+}
+
+.lb-border {
+  color: white;
+  padding-top: 10px;
+  box-shadow: 0px 0px 0px 10px cornflowerblue;
+  padding-bottom: 15px;
+  padding-top: 5px;
+  background-color: cornflowerblue;
+  border-radius: 25px;
+  z-index: 2;
 }
 
 .App-logo {
