@@ -1,6 +1,6 @@
 # Pomodoro Clock
 
-Implementation of FreeCodeCamp's Pomodoro Clock test.
+Implementation of [FreeCodeCamp](https://www.freecodecamp.org/)'s [Pomodoro Clock test](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock).
 
 This project uses react (hooks) and react-bootstrap 
 
